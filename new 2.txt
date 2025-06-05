@@ -1,0 +1,54 @@
+Great question! Here’s how to **open Git Bash** on your Windows laptop:
+
+---
+
+### ✅ After Installing Git
+
+If you’ve already installed Git from [https://git-scm.com/downloads](https://git-scm.com/downloads), **Git Bash** should be available.
+
+---
+
+### 👉 Steps to Open Git Bash:
+
+#### **Method 1: From Start Menu**
+
+1. Click on the **Start Menu** (Windows icon).
+2. Type **Git Bash**.
+3. Click on the **Git Bash App** that appears.
+
+#### **Method 2: From Desktop (if shortcut exists)**
+
+* Look for a shortcut named **Git Bash** on your desktop.
+* Double-click to open.
+
+#### **Method 3: From Any Folder**
+
+1. Open **File Explorer**.
+2. Navigate to any folder (e.g., `Documents`).
+3. **Right-click inside the folder (not on a file)**.
+4. Click **"Git Bash Here"** from the context menu.
+
+This will open Git Bash directly in that folder.
+
+---
+
+### 🔎 How to Check It's Working
+
+When it opens, you should see something like:
+
+```
+MINGW64 ~
+$
+```
+
+Now you can type commands like:
+
+```bash
+git --version
+```
+
+If it returns a version number (e.g., `git version 2.43.0`), Git Bash is working fine!
+
+---
+
+Let me know if you get stuck or nothing opens — I can help troubleshoot.
